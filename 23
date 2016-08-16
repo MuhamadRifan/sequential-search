@@ -1,0 +1,10 @@
+    cout<<"=========================================="<<endl;
+    cout<<"======PROGRAM PENCARIAN DATA ARRAY========"<<endl;
+    cout<<"=========================================="<<endl<<endl;
+
+    int n,bil_cari,Data[10];
+    int i,ketemu;
+
+    cout<<" Inputan Jumlah Data Dalam Array : "; cin>>n;
+    cout<<endl;
+    for(int c=0; c<n; c++)
