@@ -1,0 +1,5 @@
+    cout<<"=========================================="<<endl;
+    cout<<"======PROGRAM PENCARIAN DATA ARRAY========"<<endl;
+    cout<<"=========================================="<<endl<<endl;
+
+    int n,bil_cari,Data[10];
